@@ -23,19 +23,23 @@ Welcome to the **Handwriting Personality Insights** project! This interactive da
 
 #### 1. Distribution of Big Five Traits by Gender
 
-![Distribution of Big Five Traits]
+![Distribution of Big Five Traits](https://github.com/prachikane/StructuredLabs/blob/main/app_screenshots/Screenshot%202025-04-26%20at%202.25.47%E2%80%AFAM.png)
 
 ---
 
 #### 2. Average Writing Speed and Personality Traits by Gender
 
-![Average Writing Speed and Personality Traits]
+![Average Writing Speed and Personality Traits](https://github.com/prachikane/StructuredLabs/blob/main/app_screenshots/Screenshot%202025-04-26%20at%202.26.05%E2%80%AFAM.png)
 
 ---
 
 #### 3. Personality Traits vs Writing Speed
 
-![Personality Traits vs Writing Speed]
+![Personality Traits vs Writing Speed](https://github.com/prachikane/StructuredLabs/blob/main/app_screenshots/Screenshot%202025-04-26%20at%202.26.17%E2%80%AFAM.png)
+
+### 4. Filter by Age and Writing Speed
+
+![Filter by Age and Writing Speed](https://github.com/prachikane/StructuredLabs/blob/main/app_screenshots/Screenshot%202025-04-26%20at%202.26.27%E2%80%AFAM.png)
 
 ---
 
